@@ -1,4 +1,4 @@
-# Bykea Task
+# Error Handling Proof of Concept
 
 **Support OS and Devices**</br></br>
 -Minimum Supported version for app = Lollipop -> API 21</br>
@@ -14,10 +14,6 @@
 -User can click and play any track</br>
 -User can play and pause any track</br>
 
-
-**Requirements**</br></br>
--clone the project using this link: [a link](https://github.com/mehrozafzal/BykeaTask.git)</br>
--Clean build the project and run the application on physical device or emulator
 
 
 
