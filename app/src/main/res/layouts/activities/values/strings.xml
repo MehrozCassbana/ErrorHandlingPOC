@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_artist_label">Search artist</string>
+    <string name="generic_server_error">Something went wrong, Please try again later</string>
+    <string name="app_name">BykeaTask</string>
+    <string name="internet_error_message">You are experiencing internet connection issues. Please verify.</string>
+    <string name="title_activity_songs">Music App</string>
+    <string name="loading">Loading…</string>
+    <string name="need_permission">Need storage permission to pick image from gallery</string>
+    <string name="need_camera">Need camera permission</string>
+    <string name="pick_an_image">Please pick an image</string>
+    <string name="need_perm">Need storage permission to pick image from gallery</string>
+    <string name="showMoreLabel">show more</string>
+    <string name="no_tracks_found_error">No Tracks found</string>
+    <string name="search_some_tracks_message">Search some tracks</string>
+    <string name="ok">OK</string>
+    <string name="alert">Alert</string>
+    <string name="no_internet_error">No Internet connection</string>
+    <string name="internet_working_message">Internet is back</string>
+</resources>

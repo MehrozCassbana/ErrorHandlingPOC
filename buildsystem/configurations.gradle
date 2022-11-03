@@ -1,0 +1,12 @@
+ext {
+    android = [
+            minSdkVersion    : 21,
+            targetSdkVersion : 31,
+            compileSdkVersion: 31
+    ]
+
+    endpoints = [
+
+            baseUrl = "\"https://itunes.apple.com\"",
+    ]
+}
